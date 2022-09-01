@@ -1,2 +1,3 @@
 new file first line
 second line
+third line from cli local machine davidrajun
