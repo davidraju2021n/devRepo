@@ -1,0 +1,32 @@
+solid principles of java
+time complexity and space complexity
+
+locale
+	
+java.nio
+///
+trace from where methods are called (methodflow)?
+
+deadlock,livelock with examples?
+
+run 4,5 thread,main should close after threads completion?
+
+/////
+car,loory,jeep
+adding above types into list with generics?
+
+method to accept different datatypes like int,float,double?
+
+method to accept different datatypes like list of different types?
+
+///////////////////
+
+jvm,garbage collector?
+different ways locking threads?
+funcitonal interface,different interface supported by java
+interthread communication,intrathread communication?
+Streams,Annotations(optional priority-10)
+
+
+////june 7 todo
+docker			
