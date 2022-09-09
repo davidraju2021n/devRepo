@@ -1,2 +1,2 @@
 first line by branch1
-
+secondline after commiting by branch1
