@@ -2,6 +2,7 @@ first line by master
 modified line
 new change by teammate
 second line by master
+third line by teammate
 third line by master
 third stash added by master
 fourth line by master
