@@ -1,3 +1,4 @@
 first line by master
 modified line
 new change by teammate
+second line by master
