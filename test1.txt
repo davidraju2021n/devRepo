@@ -5,5 +5,6 @@ second line by master
 third line by teammate
 third line by master
 fourth line by master
+
 third stash added by master
 fifth line by master
